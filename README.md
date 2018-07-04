@@ -1,7 +1,6 @@
 # hello-world
-Github tutorial
 
-Hi! This is my first file in GitHub.
-Testing!
+Hi Humans!
 
-JoS
+Hubot here, I like Node.js and Coffeescript (thta´s what I'm made of!)
+I've had tacos on the moon and find far superior to Earth tacos. 
